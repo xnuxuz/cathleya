@@ -48,13 +48,14 @@ export default function Page() {
           <div className="button-group">
             <button
               className={`button-yes`}
-              style={{ fontSize: yesButtonSize }}
+              style={{ fontSize: 50+yesButtonSize }}
               onClick={() => setYesPressed(true)}
             >
               Yes
             </button>
             <button
               onClick={handleNoClick}
+              style={{fontSize: 60}}
               className=" button-no"
             >
               {noCount === 0 ? "No" : getNoButtonText()}

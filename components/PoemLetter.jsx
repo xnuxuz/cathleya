@@ -26,6 +26,7 @@ export default function Page() {
           {
             noCount < 4 ? 
             <div className="container">
+            <img src="https://media1.tenor.com/m/Ye7jK4dV19wAAAAC/goma-happy.gif" className="img-poem" alt="lovely" />
             <div className="speech up">
                 {noCount === 0 ? 'Hewo dear please click the button >.<' : getNoButtonText()}
             </div>
