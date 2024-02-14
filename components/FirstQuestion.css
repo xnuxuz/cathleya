@@ -1,12 +1,11 @@
 .container-questions{
-    margin-top: 35rem;
 }
 .img-questions{
     width: 20vh;
 }
 .text-questions{
     color: palevioletred;
-    font-size: 80px;
+    font-size: 20px;
     margin-top: 2rem;
 }
 .button-group{
@@ -29,5 +28,4 @@
     color:aliceblue;
     background-color: red;
     padding: 15px 32px;
-    margin-left: 1rem;
 }

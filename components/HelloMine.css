@@ -4,17 +4,15 @@
     max-width: 1200px;
   }
 
-.container{
-    margin-top: 35rem;
-}
 .main-text{
-    font-size: 100px;
+    font-size: 20px;
     color: #FF004D;
 }
 .text{
-    font-size: 100px;
+    font-size: 20px;
     color: #FF004D;
 }
 .img{
     border-radius: 50%;
+    width: 50%;
 }

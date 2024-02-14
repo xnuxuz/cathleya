@@ -22,7 +22,6 @@ export default function Page() {
 
       return(
         <>
-        {console.log(noCount)}
           {
             noCount < 4 ? 
             <div className="container">
